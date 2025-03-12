@@ -1,1 +1,9 @@
+https://www.anaconda.com/
+https://jupyter.org/
+https://pandas.pydata.org/pandas-docs/dev/user_guide/10min.html
+https://numpy.org/doc/stable/user/quickstart.html
+https://matplotlib.org/stable/tutorials/index.html
+https://seaborn.pydata.org/tutorial/introduction
+https://seaborn.pydata.org/tutorial.html
 
+https://www.kaggle.com/competitions/titanic/data
