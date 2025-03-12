@@ -1,1 +1,9 @@
+https://scikit-learn.org/1.4/tutorial/basic/tutorial.html
+https://scikit-learn.org/stable/modules/model_evaluation.html
+https://scikit-learn.org/stable/auto_examples/ensemble/plot_voting_decision_regions.html
+https://www.activestate.com/resources/quick-reads/how-to-classify-data-in-python/
+
+https://www.kaggle.com/competitions/titanic/data
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 
